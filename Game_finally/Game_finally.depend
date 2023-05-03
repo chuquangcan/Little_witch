@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1676814474 source:c:\users\admin\documents\lazzyfoo\game_finally\baseobject.cpp
+	"BaseObject.h"
+
+1676361020 c:\users\admin\documents\lazzyfoo\game_finally\baseobject.h
+	"commonFunc.h"
+
+1681378511 c:\users\admin\documents\lazzyfoo\game_finally\commonfunc.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+
+1678209442 source:c:\users\admin\documents\lazzyfoo\game_finally\commonfunc.cpp
+	"commonFunc.h"
+
+1683015976 source:c:\users\admin\documents\lazzyfoo\game_finally\main.cpp
+	<iostream>
+	<SDL_ttf.h>
+	<sstream>
+	"BaseObject.h"
+	"commonFunc.h"
+	"Gamemap.h"
+	"MainObject.h"
+	"Timer.h"
+	"ThreatObjects.h"
+	"explosion.h"
+	"ghost_house.h"
+	"bird.h"
+	"Boss.h"
+
+1681488926 source:c:\users\admin\documents\lazzyfoo\game_finally\gamemap.cpp
+	"Gamemap.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1681488926 c:\users\admin\documents\lazzyfoo\game_finally\gamemap.h
+	"commonFunc.h"
+	"BaseObject.h"
+
+1682766432 c:\users\admin\documents\lazzyfoo\game_finally\mainobject.h
+	<vector>
+	"commonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"ThreatObjects.h"
+
+1682857130 source:c:\users\admin\documents\lazzyfoo\game_finally\mainobject.cpp
+	"MainObject.h"
+	"ThreatObjects.h"
+	<iostream>
+
+1676525957 source:c:\users\admin\documents\lazzyfoo\game_finally\timer.cpp
+	"Timer.h"
+	"commonFunc.h"
+
+1676525957 c:\users\admin\documents\lazzyfoo\game_finally\timer.h
+
+1681468374 source:c:\users\admin\documents\lazzyfoo\game_finally\bulletobject.cpp
+	"BulletObject.h"
+
+1681447382 c:\users\admin\documents\lazzyfoo\game_finally\bulletobject.h
+	"BaseObject.h"
+	"commonFunc.h"
+
+1682960169 source:c:\users\admin\documents\lazzyfoo\game_finally\threatobjects.cpp
+	"ThreatObjects.h"
+
+1682952512 c:\users\admin\documents\lazzyfoo\game_finally\threatobjects.h
+	"commonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"MainObject.h"
+
+1681542663 source:c:\users\admin\documents\lazzyfoo\game_finally\explosion.cpp
+	<sstream>
+	"explosion.h"
+
+1681398096 c:\users\admin\documents\lazzyfoo\game_finally\explosion.h
+	"commonFunc.h"
+	"BaseObject.h"
+
+1681545958 c:\users\admin\documents\lazzyfoo\game_finally\ghost_house.h
+	"BaseObject.h"
+
+1681544753 source:c:\users\admin\documents\lazzyfoo\game_finally\ghost_house.cpp
+	"ghost_house.h"
+
+1681717432 source:c:\users\admin\documents\lazzyfoo\game_finally\bird.cpp
+	"bird.h"
+
+1681716733 c:\users\admin\documents\lazzyfoo\game_finally\bird.h
+	"BaseObject.h"
+	<string>
+
+1682863235 source:c:\users\admin\documents\lazzyfoo\game_finally\boss.cpp
+	"Boss.h"
+
+1682820938 c:\users\admin\documents\lazzyfoo\game_finally\boss.h
+	"commonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
